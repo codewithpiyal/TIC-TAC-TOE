@@ -41,3 +41,19 @@ body{
     border-radius: 1rem;
     border: none;
 }
+#restart_btn{
+    padding: 1rem;
+    font-size: 1.2rem;
+    background-color: brown;
+    color: blanchedalmond;
+    border-radius: 1rem;
+    border: none;
+}
+.msg_container p{
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.hide{
+    display: none;
+}
